@@ -1,7 +1,7 @@
 # Hola soy mariana😊
  ingeniera en sistemas computacionales| mexico | marianadez15@gmail.com
 
- ##sobre mi
+#sobre mi
  Estoy estudiando la carrera de ingenieria en sistemas, tengo 21 años.
 
  ##Tecnologias y herramientas
